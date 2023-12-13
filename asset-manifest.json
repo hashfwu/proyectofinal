@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/proyectofinal/static/css/main.0cd79011.css",
+    "main.js": "/proyectofinal/static/js/main.27832aec.js",
+    "static/js/787.8cf52469.chunk.js": "/proyectofinal/static/js/787.8cf52469.chunk.js",
+    "static/media/salsas.jpeg": "/proyectofinal/static/media/salsas.2249ecc1f73526636999.jpeg",
+    "static/media/galleta.jpg": "/proyectofinal/static/media/galleta.57af12fa0285844b7914.jpg",
+    "static/media/harina.png": "/proyectofinal/static/media/harina.5551d4174589852fb953.png",
+    "static/media/lily.jpg": "/proyectofinal/static/media/lily.1db7c70e90d1d270ca66.jpg",
+    "static/media/huawei.jpg": "/proyectofinal/static/media/huawei.93fa8135ca64ea9c8e1b.jpg",
+    "static/media/beachhouse.jpg": "/proyectofinal/static/media/beachhouse.6e5e1dc4b85db968bc33.jpg",
+    "static/media/patito_king.jpg": "/proyectofinal/static/media/patito_king.ae5aaea4a7b41bc62039.jpg",
+    "static/media/beatles.jpg": "/proyectofinal/static/media/beatles.288e86266904edff8cb7.jpg",
+    "static/media/lector-vinilo.jpg": "/proyectofinal/static/media/lector-vinilo.88cf08cae40d42d9516d.jpg",
+    "static/media/xiaomi.jpg": "/proyectofinal/static/media/xiaomi.b212932cb7c7970cb517.jpg",
+    "static/media/viscachani.jpg": "/proyectofinal/static/media/viscachani.027333bb93528266183e.jpg",
+    "static/media/avena.jpeg": "/proyectofinal/static/media/avena.41fce7fe4bd3fec27979.jpeg",
+    "static/media/redmi.jpeg": "/proyectofinal/static/media/redmi.a7db70e8255e648cda08.jpeg",
+    "static/media/patitos_fondo.jpeg": "/proyectofinal/static/media/patitos_fondo.ef56f3f2e4bda7e84309.jpeg",
+    "static/media/patito.gif": "/proyectofinal/static/media/patito.f991c439edecdc808463.gif",
+    "static/media/patito.png": "/proyectofinal/static/media/patito.526372a7dd6ca2351ef9.png",
+    "static/media/oferta.gif": "/proyectofinal/static/media/oferta.2f083e8f21245bd091c2.gif",
+    "static/media/ipad.jpeg": "/proyectofinal/static/media/ipad.d1f4ed3b5675e8c69953.jpeg",
+    "static/media/pan.jpg": "/proyectofinal/static/media/pan.41e70da7979638d096b6.jpg",
+    "static/media/naranja.jpg": "/proyectofinal/static/media/naranja.c7b82881f9c39e48a061.jpg",
+    "static/media/kiwi.jpg": "/proyectofinal/static/media/kiwi.be3abe5097beffdd6546.jpg",
+    "static/media/galletas_mabel.jpeg": "/proyectofinal/static/media/galletas_mabel.b5baf0cbe0effeb961f2.jpeg",
+    "static/media/pringles.jpeg": "/proyectofinal/static/media/pringles.9c67d8bb3d7b6cde3876.jpeg",
+    "static/media/mandarina.jpg": "/proyectofinal/static/media/mandarina.d6f53ce9f6bc40771026.jpg",
+    "index.html": "/proyectofinal/index.html",
+    "main.0cd79011.css.map": "/proyectofinal/static/css/main.0cd79011.css.map",
+    "main.27832aec.js.map": "/proyectofinal/static/js/main.27832aec.js.map",
+    "787.8cf52469.chunk.js.map": "/proyectofinal/static/js/787.8cf52469.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0cd79011.css",
+    "static/js/main.27832aec.js"
+  ]
+}
